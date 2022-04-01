@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,0FAAI;AAEZ,AAAA,KAAK,CAAA;EACD,eAAe,CAAA;AAAC;CACnB;;AAED,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,GAAG;EACf,MAAM,EAAE,CAAC;EACT,WAAW,EAAE,OAAO;CACvB",
+    "sources": [
+        "glogs.scss"
+    ],
+    "names": [],
+    "file": "glogs.css"
+}
